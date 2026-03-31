@@ -1,0 +1,6 @@
+#maven build folder
+target/
+#eclipse meta data
+.metadata/
+#compiled java files
+*.class
