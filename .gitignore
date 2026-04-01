@@ -4,3 +4,7 @@ target/
 .metadata/
 #compiled java files
 *.class
+
+*.jar
+
+*.log
